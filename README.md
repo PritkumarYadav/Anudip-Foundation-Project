@@ -1,1 +1,2 @@
 # Anudip-Foundation-Project
+The Super Store Sales Dashboard is an interactive and visually compelling data analysis tool created using Power BI. The dashboard provides a comprehensive view of key business metrics like sales, profit, and shipment information, enabling better decision-making for retail management. By leveraging various visualizations, the dashboard simplifies complex data, making it easier to identify trends and business performance across different segments, categories, and regions.
